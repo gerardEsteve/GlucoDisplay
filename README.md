@@ -4,6 +4,12 @@ Turn a spare Android phone into an always-on display for your FreeStyle Libre gl
 Put it on a stand next to your desk, TV or bed and see your latest value, trend arrow and graph at a
 glance, with a dimmed night mode.
 
+<p align="center">
+  <img src="screenshots/big-number.png" width="49%" alt="Big number layout">
+  <img src="screenshots/stats.png" width="49%" alt="Stats layout">
+</p>
+<p align="center"><sub>Sample data · Datos de ejemplo</sub></p>
+
 *[En español más abajo](#en-español).*
 
 > **Not a medical device.** Don't use it for treatment or insulin decisions. Readings can be late,
