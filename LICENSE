@@ -46,6 +46,6 @@ granted below.
 
 7. Open-source components
    The app includes open-source software under its own licences: AndroidX and
-   Jetpack Compose (Google), Kotlin and kotlinx.serialization (JetBrains) and
-   OkHttp (Square), all under the Apache License 2.0
+   Jetpack Compose (Google), Kotlin and kotlinx.serialization (JetBrains),
+   OkHttp (Square) and the Roboto font (Google), all under the Apache License 2.0
    (https://www.apache.org/licenses/LICENSE-2.0).

@@ -43,6 +43,11 @@ first time, Android asks you to allow GlucoDisplay to install apps.
 Your LibreLinkUp email and password stay on your phone and are only sent to LibreLinkUp. Readings
 and settings stay on your phone. No ads, analytics or tracking.
 
+## Feedback and requests
+
+Found a problem, or have an idea or request? [Open an issue](../../issues/new) on this repository.
+Issues are public: never include your email, password or glucose readings.
+
 ---
 
 ## En español
@@ -82,6 +87,12 @@ historial. La primera vez, Android te pedirá permitir que GlucoDisplay instale 
 
 Tu email y contraseña de LibreLinkUp se quedan en tu móvil y solo se envían a LibreLinkUp. Las
 lecturas y los ajustes se quedan en tu móvil. Sin anuncios, analíticas ni seguimiento.
+
+### Comentarios y peticiones
+
+¿Has encontrado un problema o tienes una idea o petición? [Abre un issue](../../issues/new) en este
+repositorio. Los issues son públicos: no incluyas nunca tu email, tu contraseña ni tus lecturas de
+glucosa.
 
 ---
 
