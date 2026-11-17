@@ -31,12 +31,15 @@ glance, with a dimmed night mode.
    Tap **More details → Install without scanning** (or **Scan app** to let Google check it first).
 4. Open GlucoDisplay, read the notice and follow the short guide to sign in with your LibreLinkUp
    email and password.
+5. Allow what it asks for next: **Display over other apps** (so the display comes back by itself
+   after a restart, a power cut or an update), **notifications** and **no battery restrictions**.
 
 ## Updates
 
 GlucoDisplay checks this page once a day. When there is a new version, a blue **Update** pill
 appears on the display: tap it, then confirm. Your account, settings and history are kept. The
-first time, Android asks you to allow GlucoDisplay to install apps.
+first time, Android asks you to allow GlucoDisplay to install apps; the update then carries on by
+itself. If you leave the app while it downloads, a notification lets you finish the update.
 
 ## Privacy
 
@@ -76,12 +79,16 @@ flecha de tendencia y la gráfica de un vistazo, con un modo noche atenuado.
    **Más detalles → Instalar sin analizar** (o **Analizar app** para que Google la revise antes).
 4. Abre GlucoDisplay, lee el aviso y sigue la guía para iniciar sesión con tu email y contraseña
    de LibreLinkUp.
+5. Permite lo que pide a continuación: **Mostrar sobre otras apps** (para que la pantalla vuelva sola
+   tras un reinicio, un corte de luz o una actualización), **notificaciones** y **sin restricciones de
+   batería**.
 
 ### Actualizaciones
 
 GlucoDisplay revisa esta página una vez al día. Cuando hay una versión nueva aparece una pastilla
 azul **Actualizar** en la pantalla: tócala y confirma. Se mantienen tu cuenta, los ajustes y el
-historial. La primera vez, Android te pedirá permitir que GlucoDisplay instale apps.
+historial. La primera vez, Android te pedirá permitir que GlucoDisplay instale apps; después la
+actualización sigue sola. Si sales de la app mientras se descarga, una notificación te permite terminarla.
 
 ### Privacidad
 
