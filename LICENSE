@@ -1,0 +1,51 @@
+GlucoDisplay licence
+
+Copyright (c) 2026 the GlucoDisplay authors. All rights reserved, except as
+granted below.
+
+1. Use and sharing
+   You may download, install and use the GlucoDisplay app free of charge for
+   personal, non-commercial purposes, and share the unmodified APK as published
+   on the official GlucoDisplay releases page.
+
+2. Restrictions
+   You may not sell the app, charge for it, modify it, decompile it to make
+   derived versions, distribute modified versions, or bundle it with other
+   software, without written permission from the authors.
+
+3. Not a medical device
+   GlucoDisplay is not a medical device and has not been reviewed or approved
+   by any regulator. It only displays readings obtained from the LibreLinkUp
+   service. It must not be used for diagnosis, for treatment or dosing
+   decisions, or in place of the alarms of the official sensor apps. Readings
+   can be delayed, missing or wrong. Always confirm with your sensor or a
+   blood glucose meter before acting.
+
+4. Third-party service
+   GlucoDisplay is an independent project. It is not made by, endorsed by or
+   affiliated with Abbott. FreeStyle Libre, LibreLink, LibreLinkUp and
+   LibreView are trademarks of Abbott. The app uses the same service as the
+   LibreLinkUp app with the account you enter; Abbott's terms for that service
+   do not allow automated access by third-party apps, so access may stop
+   working or be blocked at any time. You are responsible for the use of your
+   account.
+
+5. No warranty, no liability
+   The app is provided "as is", without warranty of any kind, express or
+   implied, including fitness for a particular purpose. To the maximum extent
+   permitted by law, the authors are not liable for any damage, injury or loss
+   arising from its use or from the inability to use it. You use it at your
+   own risk.
+
+6. Your data
+   Your LibreLinkUp email and password are stored only on your phone and are
+   sent only to the LibreLinkUp service. Readings and settings stay on your
+   phone. The app has no ads, analytics or tracking. Release builds check the
+   GitHub releases page once a day for a new version; that request carries no
+   personal data.
+
+7. Open-source components
+   The app includes open-source software under its own licences: AndroidX and
+   Jetpack Compose (Google), Kotlin and kotlinx.serialization (JetBrains) and
+   OkHttp (Square), all under the Apache License 2.0
+   (https://www.apache.org/licenses/LICENSE-2.0).
