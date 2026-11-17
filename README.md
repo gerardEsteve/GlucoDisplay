@@ -34,6 +34,17 @@ glance, with a dimmed night mode.
 5. Allow what it asks for next: **Display over other apps** (so the display comes back by itself
    after a restart, a power cut or an update), **notifications** and **no battery restrictions**.
 
+### About the Google Play Protect warning
+
+Since version 1.0.0, if you choose **Scan app**, Google Play Protect may say the app could be harmful
+("potentially unwanted"). We believe this is a false positive: GlucoDisplay only reads your own glucose
+data from LibreLinkUp, has no ads or tracking, and its on-device scan comes back clean. The warning is
+likely triggered by the permissions an always-on display needs (showing over other apps, starting at
+boot) and by the app updating itself. We're asking Google to review it.
+
+You can tap **More details → Install without scanning**, or wait until the review is resolved. If you're
+unsure, waiting is fine.
+
 ## Updates
 
 GlucoDisplay checks this page once a day. When there is a new version, a blue **Update** pill
@@ -82,6 +93,18 @@ flecha de tendencia y la gráfica de un vistazo, con un modo noche atenuado.
 5. Permite lo que pide a continuación: **Mostrar sobre otras apps** (para que la pantalla vuelva sola
    tras un reinicio, un corte de luz o una actualización), **notificaciones** y **sin restricciones de
    batería**.
+
+### Sobre el aviso de Google Play Protect
+
+Desde la versión 1.0.0, si eliges **Analizar app**, Google Play Protect puede decir que la app podría
+ser dañina ("potencialmente no deseada"). Creemos que es un falso positivo: GlucoDisplay solo lee tus
+propios datos de glucosa de LibreLinkUp, no tiene anuncios ni seguimiento y su análisis en el móvil sale
+limpio. Es probable que el aviso lo provoquen los permisos que necesita una pantalla siempre encendida
+(mostrar sobre otras apps, iniciarse al encender) y que la app se actualice sola. Estamos pidiendo a
+Google que lo revise.
+
+Puedes tocar **Más detalles → Instalar sin analizar**, o esperar a que se resuelva la revisión. Si tienes
+dudas, esperar está bien.
 
 ### Actualizaciones
 
