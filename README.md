@@ -23,6 +23,12 @@ glance, with a dimmed night mode.
 - A **LibreLinkUp** account that can see the sensor: the person wearing it invites you from the
   LibreLink app, or you invite yourself with a second email.
 
+## Just want to look first?
+
+No account needed: tap **Try it** on the second page of the guide, or **Try the demo** on the sign-in
+screen. The demo shows made-up readings, not real data, with a violet frame around the screen. Tap
+the violet **Demo** pill when you're ready to sign in; your settings are kept.
+
 ## Install
 
 1. Open the [latest release](../../releases/latest) on the phone and download the `.apk` file.
@@ -81,6 +87,13 @@ flecha de tendencia y la gráfica de un vistazo, con un modo noche atenuado.
 - Un móvil con Android 8 o superior, enchufado. Un móvil antiguo es perfecto.
 - Una cuenta de **LibreLinkUp** que vea el sensor: quien lo lleva te invita desde la app LibreLink,
   o te invitas tú mismo con un segundo email.
+
+### ¿Quieres verla antes?
+
+No necesitas cuenta: toca **Probar** en la segunda página de la guía, o **Probar la demo** en la
+pantalla de inicio de sesión. La demo muestra lecturas inventadas, no datos reales, con un marco
+violeta alrededor de la pantalla. Cuando quieras, toca la pastilla violeta **Demo** para iniciar
+sesión; se mantienen tus ajustes.
 
 ### Instalación
 
